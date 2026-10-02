@@ -3,7 +3,7 @@
     "path": "C:/Anderson_C Eportfolio/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2996562296",
+    "hash": "435667181",
     "contents": "",
     "dirty": false,
     "created": 1790915570741.0,
@@ -18,14 +18,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "2:0"
+        "rmdVisualModeLocation": "351:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1790951603,
+    "lastKnownWriteTime": 1790951771,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1790951603350,
+    "last_content_update": 1790951772003,
     "read_only": false,
     "read_only_alternatives": []
 }
