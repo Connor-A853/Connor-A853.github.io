@@ -9,7 +9,7 @@ about:
       href: https://github.com/Connor-A853
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/in/connor-anderson-5985b5440
+      href: https://linkedin/in/connor-anderson-5985b5440
     - icon: inboxes
       text: Contact
       href: mailto:ca074@uark.edu
