@@ -1,7 +1,7 @@
 ---
 title: "Connor Anderson"
 image: headshot.jpg
-about:
+about: Industrial Engineering and Operational Analytics student at the Univerity of Arkansas
   template: jolla
   links:
     - icon: github
